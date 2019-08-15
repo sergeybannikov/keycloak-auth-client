@@ -1,0 +1,14 @@
+
+**/target/*
+**/.idea/workspace.xml
+**/.idea/dictionaries/*.xml
+**/.gradle/*
+**/.kotlintest/*
+**/build/*
+**/logs/*
+**/out/*
+*.idea
+
+\.gradle/
+
+gradle/wrapper/gradle-wrapper\.jar
